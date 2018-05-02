@@ -1,7 +1,9 @@
 # ACA4NMT
 This is the code for our paper *Decoding History Based Adaptive Control of Attention for Neural Machine Translation*, https://arxiv.org/abs/1802.01812
 
-# Requirements
+***********************************************************
+
+## Requirements
 * Ubuntu 16.0.4
 * Python3.5
 * Pytorch 0.3.1
