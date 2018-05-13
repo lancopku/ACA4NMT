@@ -29,3 +29,16 @@ python3 train.py -log log_name -config config_yaml -gpus id
 ```
 python3 train.py -log log_name -config config_yaml -gpus id -restore checkpoint -mode eval
 ```
+
+*******************************************************************
+
+# Citation
+If you use this code for your research, please cite the paper this code is based on: *Decoding History Based Adaptive Control of Attention for Neural Machine Translation*.
+```
+@article{decodinghistory,
+  title={Decoding History Based Adaptive Control of Attention for Neural Machine Translation},
+  author={Junyang Lin, Shumina Ma, Qi Su and Xu Sun},
+  journal={arxiv},
+  year={2018}
+}
+```
